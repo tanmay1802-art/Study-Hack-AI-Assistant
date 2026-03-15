@@ -16,8 +16,10 @@ This project demonstrates the development of a lightweight study platform that c
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - Web-to-App conversion tools
 - Android APK packaging
+- Next.js
 
 ## Project Structure
 - Website version hosted online
@@ -41,5 +43,8 @@ It also serves as a portfolio project demonstrating the ability to design, deplo
 - Cloud database support
 - Push notifications
 
+- AI powered study assistant web application built with Next.js and TypeScript. Includes a web version and Android APK.
+
 ## Author
 Developed by a student developer exploring web and mobile application development.
+(Voldemort)
